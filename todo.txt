@@ -1,6 +1,6 @@
 todo.txt
 --------
-
+007 Herp my derp.. And do it soon.
 006 SMS bug:  channels KLM do not respond to volume updates in rhythm mode (M1)
 B00daW> i also believe that many ym2413.c emulators do not understand the behavior
 [12:56]  <B00daW> as i've read the comments
